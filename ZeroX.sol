@@ -177,3 +177,4 @@ contract ZeroX is ERC20, Ownable {
         return frontRunnerList[account];
     }
 }
+
